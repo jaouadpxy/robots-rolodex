@@ -32,7 +32,7 @@ class App extends Component {
 
         <SearchBox
           changeHandler={this.searchHandler}
-          placeholder="search monsters"
+          placeholder="Search Monsters"
         />
 
         <CardList monsters={filterField} />
