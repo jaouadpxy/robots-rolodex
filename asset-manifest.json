@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/jaouadpxy/robots-rolodex/static/css/main.d142ade0.chunk.css",
-    "main.js": "/jaouadpxy/robots-rolodex/static/js/main.6c9269f0.chunk.js",
-    "main.js.map": "/jaouadpxy/robots-rolodex/static/js/main.6c9269f0.chunk.js.map",
-    "runtime-main.js": "/jaouadpxy/robots-rolodex/static/js/runtime-main.cfe7bc6b.js",
-    "runtime-main.js.map": "/jaouadpxy/robots-rolodex/static/js/runtime-main.cfe7bc6b.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/jaouadpxy/robots-rolodex/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.3b911aba.chunk.js": "/jaouadpxy/robots-rolodex/static/js/2.3b911aba.chunk.js",
-    "static/js/2.3b911aba.chunk.js.map": "/jaouadpxy/robots-rolodex/static/js/2.3b911aba.chunk.js.map",
-    "index.html": "/jaouadpxy/robots-rolodex/index.html",
-    "precache-manifest.0ac4e34823081ecc9117338eb8282463.js": "/jaouadpxy/robots-rolodex/precache-manifest.0ac4e34823081ecc9117338eb8282463.js",
-    "service-worker.js": "/jaouadpxy/robots-rolodex/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/jaouadpxy/robots-rolodex/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.d142ade0.chunk.css.map": "/jaouadpxy/robots-rolodex/static/css/main.d142ade0.chunk.css.map"
+    "main.css": "/robots-rolodex/static/css/main.d142ade0.chunk.css",
+    "main.js": "/robots-rolodex/static/js/main.6c9269f0.chunk.js",
+    "main.js.map": "/robots-rolodex/static/js/main.6c9269f0.chunk.js.map",
+    "runtime-main.js": "/robots-rolodex/static/js/runtime-main.134e9d71.js",
+    "runtime-main.js.map": "/robots-rolodex/static/js/runtime-main.134e9d71.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robots-rolodex/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.3b911aba.chunk.js": "/robots-rolodex/static/js/2.3b911aba.chunk.js",
+    "static/js/2.3b911aba.chunk.js.map": "/robots-rolodex/static/js/2.3b911aba.chunk.js.map",
+    "index.html": "/robots-rolodex/index.html",
+    "precache-manifest.d5f500a9d2dce9c4e331ba1e34e9ef84.js": "/robots-rolodex/precache-manifest.d5f500a9d2dce9c4e331ba1e34e9ef84.js",
+    "service-worker.js": "/robots-rolodex/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robots-rolodex/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.d142ade0.chunk.css.map": "/robots-rolodex/static/css/main.d142ade0.chunk.css.map"
   }
 }
