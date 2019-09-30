@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import CardList from './Components/card-list/card-list.component';
 import SearchBox from './Components/search-box/search-box.components';
 import 'tachyons';
+import './App.css';
 
 class App extends Component {
   constructor() {
@@ -24,9 +25,10 @@ class App extends Component {
     const filterField = monsters.filter(monster =>
       monster.name.toLowerCase().includes(searchField.toLowerCase())
     );
+
     return (
       <div className="App tc">
-        <h1 className="bg-red pv2 f2 white mt0 mb5 ">Monsters</h1>
+        <h1 className="title ">Monsters Rolodox</h1>
 
         <SearchBox
           changeHandler={this.searchHandler}
